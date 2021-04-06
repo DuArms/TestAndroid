@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">TestAndroid</string>
+
+
+    <string-array name="unitatiDeMsaura">
+        <item>Km</item>
+        <item>m</item>
+        <item>cm</item>
+        <item>mm</item>
+        <item>inch</item>
+    </string-array>
+</resources>
